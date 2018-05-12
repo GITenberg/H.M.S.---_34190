@@ -1,0 +1,38 @@
+_repo: H.M.S.---_34190
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bower, John Graham
+    alias: Klaxon
+    birthdate: 1886
+    deathdate: 1940
+    gutenberg_agent_id: '36858'
+    url: http://www.gutenberg.org/2009/agents/36858
+description: ''
+gutenberg_issued: '2010-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34190'
+  lccn: '18023113'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+- !lcsh 'Seafaring life -- Fiction'
+tableOfContents: '"1923" -- Privileged -- According to their lights -- A naval discussion
+  -- The gunlayer -- A wage slave -- An "annual" -- "Our annual" -- Mascots -- The
+  sparrow -- A war wedding -- A hymn of disgust -- The "special" -- Between tides
+  -- Light cavalry -- A trinity -- In the morning -- An affair of outposts -- 1917
+  -- In forty west -- A ring axiom -- Chances -- The quartermaster -- A landfall --
+  Night rounds -- In the barred zone -- A matter of routine -- Who cares? -- The unchanging
+  sex -- Two children -- An urgent courtship -- Looking aft -- Grit -- A maxim --
+  From a far country -- The crisis -- A sea chanty -- The war of attrition -- Through
+  an Admiralty window -- A most untrue story.'
+title: H.M.S. ----
+url: http://www.gutenberg.org/ebooks/34190
